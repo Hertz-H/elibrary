@@ -5,6 +5,9 @@
    --main-red:#d40b0e;
    --secondary-red:#f71108;
 }
+a{
+    color:black;
+}
     .img_container i{
         display: inline-block;
         width: 100px;
